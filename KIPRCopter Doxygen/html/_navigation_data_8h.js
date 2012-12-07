@@ -1,0 +1,45 @@
+var _navigation_data_8h =
+[
+    [ "Orientation", "struct_a_r_drone_1_1_orientation.html", "struct_a_r_drone_1_1_orientation" ],
+    [ "Speed", "struct_a_r_drone_1_1_speed.html", "struct_a_r_drone_1_1_speed" ],
+    [ "VisionTag", "struct_a_r_drone_1_1_vision_tag.html", "struct_a_r_drone_1_1_vision_tag" ],
+    [ "State_Flags", "struct_a_r_drone_1_1_state___flags.html", "struct_a_r_drone_1_1_state___flags" ],
+    [ "NavigationData", "class_a_r_drone_1_1_navigation_data.html", "class_a_r_drone_1_1_navigation_data" ],
+    [ "NAVDATA_ADC_DATA_FRAME_TAG", "_navigation_data_8h.html#a918303d442e639b3ddb07c3ecbfac28d", null ],
+    [ "NAVDATA_ALTITUDE_TAG", "_navigation_data_8h.html#ae587395da627ea6698c6a528f48636de", null ],
+    [ "NAVDATA_CKS_TAG", "_navigation_data_8h.html#a0aca2bfe24eb883a6ab30285ec69705d", null ],
+    [ "NAVDATA_DEMO_TAG", "_navigation_data_8h.html#aeac9f432119d20232b69e2aab53007ad", null ],
+    [ "NAVDATA_EULER_ANGLES_TAG", "_navigation_data_8h.html#a9909743e5b28b9c5de492ef1291376c7", null ],
+    [ "NAVDATA_GYROS_OFFSETS_TAG", "_navigation_data_8h.html#a7d7dc3291e8ef894eb7bc936a914a16f", null ],
+    [ "NAVDATA_PHYS_MEASURES_TAG", "_navigation_data_8h.html#a13812f8116a19fce31008ffedb7395bc", null ],
+    [ "NAVDATA_PWM_TAG", "_navigation_data_8h.html#a3f9bf8025cf1b91eebab8c5dbbf72073", null ],
+    [ "NAVDATA_RAW_MEASURES_TAG", "_navigation_data_8h.html#a3e872b51b8fd52d0f520bc7edf532d24", null ],
+    [ "NAVDATA_RC_REFERENCES_TAG", "_navigation_data_8h.html#a807423e0198751e950920e6d343bc9d8", null ],
+    [ "NAVDATA_REFERENCES_TAG", "_navigation_data_8h.html#acda2342ea1c831d939a35bf1db1ec5b5", null ],
+    [ "NAVDATA_TIME_TAG", "_navigation_data_8h.html#aaf0b91076a71192e8cf0b2bdaff199f7", null ],
+    [ "NAVDATA_TRACKERS_SEND_TAG", "_navigation_data_8h.html#a8d3e79091bf276616701a8b15eab769c", null ],
+    [ "NAVDATA_TRIMS_TAG", "_navigation_data_8h.html#a1be6202419a7a446fa62700641af3d54", null ],
+    [ "NAVDATA_VIDEO_STREAM_TAG", "_navigation_data_8h.html#abbc3a171a5fdd1e6afad24af3c6a4ad4", null ],
+    [ "NAVDATA_VISION_DETECT_TAG", "_navigation_data_8h.html#a27e8d7e347552d29593295deb93e5f83", null ],
+    [ "NAVDATA_VISION_OF_TAG", "_navigation_data_8h.html#a4f5b8613e5ad3034c4112c3a2bbea078", null ],
+    [ "NAVDATA_VISION_PERF_TAG", "_navigation_data_8h.html#a7788f08a188f1e5faf2bb030111f75df", null ],
+    [ "NAVDATA_VISION_RAW_TAG", "_navigation_data_8h.html#a76e59687564dba2f3cddd86ab4352f1d", null ],
+    [ "NAVDATA_VISION_TAG", "_navigation_data_8h.html#a9ad7a51f6dcd9f0aa1739f9c2cda05f3", null ],
+    [ "NAVDATA_WATCHDOG_TAG", "_navigation_data_8h.html#a84af473c98ec979407c828f65129d60a", null ],
+    [ "eControlAlgorithm", "_navigation_data_8h.html#a47e43aa2763ad7c23fbd4574b8b53eac", [
+      [ "eEulerAnglesControl", "_navigation_data_8h.html#a47e43aa2763ad7c23fbd4574b8b53eaca7f359f56b8e8b285809a2f796ced9827", null ],
+      [ "eAugularSpeedControl", "_navigation_data_8h.html#a47e43aa2763ad7c23fbd4574b8b53eaca8e58520cc013825f941d567c66625cd3", null ]
+    ] ],
+    [ "eControlState", "_navigation_data_8h.html#aff3d12cc5e91d5847565eb377265e773", [
+      [ "eDEFAULT", "_navigation_data_8h.html#aff3d12cc5e91d5847565eb377265e773af20f082df9e54999e02c4341cf875644", null ],
+      [ "eINIT", "_navigation_data_8h.html#aff3d12cc5e91d5847565eb377265e773a95565a166b56e6e2b60a53c35756adaa", null ],
+      [ "eLANDED", "_navigation_data_8h.html#aff3d12cc5e91d5847565eb377265e773a2ba2740e71d9e0d82e23dbd990b9ddb7", null ],
+      [ "eFLYING", "_navigation_data_8h.html#aff3d12cc5e91d5847565eb377265e773ab78d6f9925bb8d70b9f314a7082a9dad", null ],
+      [ "eHOVERING", "_navigation_data_8h.html#aff3d12cc5e91d5847565eb377265e773a5e46624c8db554bd85b2ad514903e336", null ],
+      [ "eTEST", "_navigation_data_8h.html#aff3d12cc5e91d5847565eb377265e773a71f874fc72f6c5a069ba8be29d58e80c", null ],
+      [ "eTAKEOFF", "_navigation_data_8h.html#aff3d12cc5e91d5847565eb377265e773aec13289b37dbe33fd03e23a53ff7e9c3", null ],
+      [ "eGOTOFIX", "_navigation_data_8h.html#aff3d12cc5e91d5847565eb377265e773aab36a49ce8f9433e40e02c28333db3e9", null ],
+      [ "eLANDING", "_navigation_data_8h.html#aff3d12cc5e91d5847565eb377265e773afc86ff33d4706e7bb48d5283b181d252", null ]
+    ] ],
+    [ "NavDataStateToString", "_navigation_data_8h.html#a7cda9f1616c5cece74ed70dfb5533217", null ]
+];
